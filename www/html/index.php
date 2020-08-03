@@ -24,11 +24,11 @@ try {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>nameテーブル表示</title>
+    <title>DBをテーブル表示</title>
     <meta charset="utf-8">
 </head>
 <body>
-<h1>nameテーブル表示</h1>
+<h1>DBをテーブル表示</h1>
 
 レコード件数：<?php echo $row_count; ?>
 
